@@ -12,6 +12,7 @@ Before running the app, ensure you have the following installed:
 - **Java**: Version 17.0.15 (required for PySpark)
 - **Apache Hadoop**: Version 3.3.6 recommended (required for PySpark on all operating systems)
 - **Web Browser**: A modern browser (e.g., Chrome, Firefox) to view the Streamlit app
+- **PySpark**: Version 3.5.5
 
 ---
 
