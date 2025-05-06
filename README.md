@@ -72,5 +72,5 @@ Ensure the following files are in the project directory:
    - **Filter by Borough**: Use the sidebar to select a borough (e.g., Manhattan, Brooklyn, Queens, Bronx, or "All").
    - **Predict Ridership**: Select a station, fare class, payment method, date (up to 2030), time, and weather conditions, then click "Predict Ridership" to get a prediction.
    - **Ridership Trends**: Select a station, fare class, payment method, year, and month, then click "Generate Ridership Chart" to view historical trends. Download the chart using the "Download Chart" button.
-   - **Station Locations Map**: View an interactive map of the top 20 stations with their total ridership.
+   - **Station Locations Map**: View an interactive map of the top 20 stations.
 
