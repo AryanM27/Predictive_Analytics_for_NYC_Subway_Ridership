@@ -1,7 +1,7 @@
 # Predictive Analytics for NYC Subway Ridership
 
 ## Overview
-NYC Subway Insights is a big data-driven web application that analyzes and predicts ridership patterns for the New York City MTA subway system. Built with PySpark for distributed data processing, a LightGBM model for predictive analytics, and Streamlit for an interactive interface, the app visualizes historical ridership trends, predicts future ridership up to 2030, and maps station locations. The dashboard integrates weather and U.S. holiday data for enhanced predictions and features official MTA subway icons for a thematic design.
+NYC Subway Insights is a big data-driven web application that analyzes and predicts ridership patterns for top 20 busiest stations of the New York City MTA subway system. Built with PySpark for distributed data processing, a LightGBM model for predictive analytics, and Streamlit for an interactive interface, the app visualizes historical ridership trends, predicts future ridership up to 2030, and maps station locations. The dashboard integrates weather and U.S. holiday data for enhanced predictions and features official MTA subway icons for a thematic design.
 
 ---
 
